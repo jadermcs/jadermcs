@@ -10,3 +10,4 @@
 ![Kafka](https://img.shields.io/badge/-Kafka-black?logo=apache-Kafka)
 ![Solr](https://img.shields.io/badge/-Solr-white?logo=apache-Solr)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-purple?logo=PyTorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-white?logo=TensorFlow)

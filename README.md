@@ -1,7 +1,7 @@
 ### Hello there, I'm Jader Martins
 
 
-- I’m currently researching Meta-Learning, Deep Learning, and Natural Language Processing.
+- I’m currently researching Meta-Learning, Deep Learning, Graphs and Natural Language Processing.
 - I’m looking to collaborate on open source projects on Meta-Learning and Natural Language Processing.
 - More about my stuff: [jadermcs.github.io](https://jadermcs.github.io).
 

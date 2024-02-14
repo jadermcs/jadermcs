@@ -10,7 +10,6 @@
 ![Kafka](https://img.shields.io/badge/-Kafka-black?logo=apache-Kafka)
 ![Solr](https://img.shields.io/badge/-Solr-white?logo=apache-Solr)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-white?logo=PyTorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-white?logo=TensorFlow)
 ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?logo=Haskell)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=R)
 ![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)
